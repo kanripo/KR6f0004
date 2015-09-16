@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿佛國經
+#+DATE: 2015-08-30 20:00:22.102072
+#+PROPERTY: JUAN 0
