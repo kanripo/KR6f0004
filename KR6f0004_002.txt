@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:21.878347
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:50
 #+TITLE: 阿閦佛國經
 #+PROPERTY: CBETA_ID T11n0313
 #+PROPERTY: ID KR6f0004
@@ -17,7 +17,7 @@
 ¶
 後漢月支國三藏支婁迦讖譯¶
 
-4諸菩薩學成品
+* 4諸菩薩學成品
 :PROPERTIES:
 :head: 諸菩薩學成品第四
 :END:
@@ -317,7 +317,7 @@
 
 佛告舍利弗言：「用法等故而等。」¶
 
-5佛般泥洹品
+* 5佛般泥洹品
 :PROPERTIES:
 :head: 《阿閦佛國經》佛般泥洹品第五
 :END:
